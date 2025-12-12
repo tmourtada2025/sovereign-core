@@ -11,6 +11,10 @@
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
+        "typescript": "^5.3.3",
+    "@types/react": "latest",,
+    "@types/react-dom": "latest",
+    "@types/node": "latest"
     "@supabase/supabase-js": "^2.11.0"
     ,
   "devDependencies": {
